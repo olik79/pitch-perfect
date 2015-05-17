@@ -1,0 +1,12 @@
+/* 
+  English.strings
+  Pitch Perfect
+
+  Created by Oliver Körber on 17/05/15.
+  Copyright (c) 2015 Oliver Körber. All rights reserved.
+*/
+
+"recording" = "App is currently recording...";
+"tap_to_record" = "Tap to start recording.";
+"pause" = "pause";
+"resume" = "resume";
